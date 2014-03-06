@@ -14,9 +14,9 @@ The code for the position fix is from:
 Usage
 -----
 
-'$(selector).cssRotate(degrees);'
+`$(selector).cssRotate(degrees);`
 
 Example
 -------
 
-'$('#box1').cssRotate(45);'
+`$('#box1').cssRotate(45);`
