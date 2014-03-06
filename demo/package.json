@@ -1,0 +1,17 @@
+{
+  "name": "webapp",
+  "version": "0.0.1",
+  "description": "this is just a test web application",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.8",
+    "less-middleware": "~0.1.15",
+    "socket.io": "~0.9.16"
+  }
+}
